@@ -1,5 +1,0 @@
-# PROTEK2018
-
--Budiyono (H1A015037)
-
--Sandi (H1A015033)
